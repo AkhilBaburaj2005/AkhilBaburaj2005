@@ -81,23 +81,6 @@ I build <b>AI-powered systems</b>, <b>intelligent automation pipelines</b>, and 
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhilbaburaj2005&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilbaburaj2005&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
-
-## 🏆 Achievements & Activity
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akhilbaburaj2005&theme=darkhub&row=1&column=6"/>
-</p>
-
----
-
 ## 🤝 Let’s Collaborate
 
 I’m always interested in:
